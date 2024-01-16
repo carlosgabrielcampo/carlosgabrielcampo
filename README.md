@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack web developer with exp
 - **Database:** MongoDB, MySQL
 - **Tools & Platforms:** Git, GitHub, Webpack
 - **Testing:** Jest, Mocha, Chai
-- **Deployment:** Heroku, AWS
+- **Deployment:** Heroku, Firebase
 
 ## 🚀 What I Do
 
