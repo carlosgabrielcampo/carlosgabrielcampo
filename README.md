@@ -25,8 +25,8 @@ Feel free to explore my projects, contribute, or reach out for collaboration opp
 
 ## 📬 Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/carlosgcampo/)
-- Portfolio: [Your Portfolio Website](https://portfolio-92ccc.web.app/)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/carlosgcampo/)
+- Portfolio: [My Portfolio Website](https://portfolio-92ccc.web.app/)
 - Email: carlosgabrielcampo@gmail.com
 
 Thanks for stopping by! 👨‍💻
