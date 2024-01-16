@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Carlos Gabriel Campo] - Full Stack Web Developer
+# 👋 Hi, I'm Carlos Gabriel Campo - Full Stack Web Developer
 
 Welcome to my GitHub profile! I'm a passionate full-stack web developer with expertise in JavaScript, Node.js, React, MongoDB, and a range of related technologies. I specialize in creating dynamic and responsive web applications that deliver seamless user experiences.
 
